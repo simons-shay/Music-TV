@@ -1,0 +1,23 @@
+# Credentials & Secrets
+.env
+.cache*
+
+# Personal Photos & Local Generated Files
+real_faces/
+saved_art/
+original_covers/
+*.jpg
+*.wav
+last_artist.txt
+
+# Environment & IDE files
+__pycache__/
+.venv/
+venv/
+.idea/
+.vscode/
+inswapper_128.onnx
+exportToHTML/
+
+inswapper_128.onnx
+exportToHTML/
