@@ -1,6 +1,6 @@
 # Music TV
 
-Music TV is an automated ambient artwork display pipeline designed for smart TVs. It tracks currently playing music via Spotify or ambient microphone recognition (Shazam), retrieves original studio album covers, and generates full-screen 16:9 ambient artwork with optional AI face-swapping.
+Music TV is an automated ambient artwork display pipeline designed for smart TVs. It tracks currently playing music via Spotify or ambient microphone recognition (Shazam), retrieves original studio album covers, and generates a faced swaped album cover
 
 ## Features
 
