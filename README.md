@@ -2,7 +2,7 @@
 
 An automated ambient artwork display for smart TVs. Music TV detects the song that's currently playing, finds the original studio album cover, and shows it full-screen on your TV, with an optional AI face-swap that puts your own photos onto the cover art.
 
-![Kind of Blue example output](docs/examples/Miles_Davis_Kind_Of_Blue_Legacy_Edition.jpg)
+![Kind of Blue example output](docs/examples/kind-of-blue.jpg)
 
 ## Example Output
 
@@ -10,17 +10,17 @@ Each frame is generated automatically from the currently playing track. These ex
 
 | | |
 | --- | --- |
-| ![Kind of Blue](docs/examples/Miles_Davis_Kind_Of_Blue_Legacy_Edition.jpg) | ![Ballads](docs/examples/John_Coltrane_Quartet_Ballads_Deluxe_Edition_-_Rudy_Van_Gelder_Remaster.jpg) |
-| ![Workin' with the Miles Davis Quintet](docs/examples/Miles_Davis_Quintet_Workin_With_The_Miles_Davis_Quintet.jpg) | ![Duke Ellington & John Coltrane](docs/examples/Duke_Ellington_Duke_Ellington__John_Coltrane.jpg) |
+| ![Kind of Blue](docs/examples/kind-of-blue.jpg) | ![Ballads](docs/examples/ballads.jpg) |
+| ![Workin' with the Miles Davis Quintet](docs/examples/workin.jpg) | ![Duke Ellington & John Coltrane](docs/examples/ellington-coltrane.jpg) |
 
 ### Who was swapped in
 
 | Album | Original artist | Swapped in |
 | --- | --- | --- |
-| *Kind of Blue* | Miles Davis | Roomamte One |
-| *Ballads* | John Coltrane | Myself |
-| *Workin' with the Miles Davis Quintet* | Miles Davis Quintet | Myself |
-| *Duke Ellington & John Coltrane* | Duke Ellington & John Coltrane | Roommate Two (left, piano), Roommate One (right, saxophone) |
+| *Kind of Blue* | Miles Davis | [Name] |
+| *Ballads* | John Coltrane | [Name] |
+| *Workin' with the Miles Davis Quintet* | Miles Davis Quintet | [Name] |
+| *Duke Ellington & John Coltrane* | Duke Ellington & John Coltrane | [Name] (left, piano), [Name] (right, saxophone) |
 
 ## Features
 
