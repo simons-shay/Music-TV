@@ -17,10 +17,10 @@ Each frame is generated automatically from the currently playing track. These ex
 
 | Album | Original artist | Swapped in |
 | --- | --- | --- |
-| *Kind of Blue* | Miles Davis | [Name] |
-| *Ballads* | John Coltrane | [Name] |
-| *Workin' with the Miles Davis Quintet* | Miles Davis Quintet | [Name] |
-| *Duke Ellington & John Coltrane* | Duke Ellington & John Coltrane | [Name] (left, piano), [Name] (right, saxophone) |
+| *Kind of Blue* | Miles Davis | Roommate One |
+| *Ballads* | John Coltrane | Myself |
+| *Workin' with the Miles Davis Quintet* | Miles Davis Quintet | Myself |
+| *Duke Ellington & John Coltrane* | Duke Ellington & John Coltrane | Roommate Two (left, piano), Roommate One (right, saxophone) |
 
 ## Features
 
